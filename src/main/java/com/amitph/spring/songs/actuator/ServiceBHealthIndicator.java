@@ -18,7 +18,7 @@ public class ServiceBHealthIndicator implements HealthIndicator {
     }
 
     private Boolean isRunningServiceB() {
-        Boolean isRunning = false;
+        Boolean isRunning = true;
         // Logic Skipped
 
         return isRunning;
